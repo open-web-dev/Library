@@ -2,7 +2,7 @@
 Open source full stack web components library
 
 
-Component
+Component scaffolding
     index.js
     index.html
     styles
@@ -18,21 +18,6 @@ Component
     package.json
     readme
 ***
-
-
-
-
-Project
-    utils
-    webpack
-    styles
-    constants
-    webComponent
-        => atoms
-        => molecules
-        => organisms
-        => Systems => complete functionality
-    readme
 
 Branching strategy
 ******************
