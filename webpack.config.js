@@ -1,5 +1,5 @@
 const path = require('path');
-
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 module.exports = {
   entry: './index.js',
   output: {
@@ -13,5 +13,6 @@ module.exports = {
     hot: true,
     port: 9000,
     compress: true,
-  },
+  }
+  // plugins:[new BundleAnalyzerPlugin()]
 };

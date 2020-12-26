@@ -4,4 +4,4 @@ if (module.hot) {
       console.log('Accepting the updated home module!');
       home();
     })
-  }
+}

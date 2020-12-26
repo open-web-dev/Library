@@ -1,0 +1,10 @@
+Todo
+####
+1. Manage running separate component locally using npm/ webpack command.
+2. Examples with set of component should render the page locally using webpack/ npm.
+3. Doc generation for component using npm module and webpack will be done later
+4. web component analyser npm module should be include - https://www.npmjs.com/package/web-component-analyzer
+5. use eleventy npm module project for demo orchersation 
+6. use lit analyser
+7. use eslint & analyser 
+8. format - prettier
