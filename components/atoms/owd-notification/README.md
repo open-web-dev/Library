@@ -11,4 +11,3 @@ input:-
   type of input i.e -> icon or image 
   text to show when hover the notification icon
   boolean option to show text or not
-  
